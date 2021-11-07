@@ -3,7 +3,8 @@
 **My name is ChinGH and you can call me gh!**
 
 ~ You can find me on:
-  [https://cdn-icons-png.flaticon.com/512/124/124021.png](https://twitter.com/gh_chin)
+
+  [Twitter](https://twitter.com/gh_chin)
 
 ⇒ 🔭 I’m currently working on [Discord Bot Development](https://discord.com/developers/docs/intro)!
 
