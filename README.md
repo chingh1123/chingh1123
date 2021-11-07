@@ -18,7 +18,7 @@
 
 ## My personal :)
 
-⇒ 🔭 I’m currently working on [Discord Bot Development](https://discord.com/developers/docs/intro)!
+⇒ 🔭 I’m currently working on [Discord Bot Development](https://discord.com/developers/applications)!
 
 ⇒ 🌱 I’m currently learning JavaScripts, Java, Python, HTMl and CSS!
 
