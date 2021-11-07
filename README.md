@@ -4,6 +4,6 @@
 
 ⇒ 🌱 I’m currently learning JavaScripts, Java, Python, HTMl and CSS!
 
-⇒ 👯 I’m looking to collaborate with myself.
+⇒ 👯 I’m looking to collaborate on myself 🤡.
 
 ⇒ ⚡ Fun fact: I'm a nubest boy forever 💪 
