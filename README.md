@@ -28,7 +28,7 @@
 
 ⇒ 🤖 Discord verified bot developer
 
-## About my Discord Bot
+## About My Discord Bot
 
 - Bot: CGH#7612
 - Verified? Yes
