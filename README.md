@@ -20,7 +20,7 @@
 
 ⇒ 🔭 I’m currently working on [Discord Bot Development](https://discord.com/developers/applications)!
 
-⇒ 🌱 I’m currently learning JavaScripts, Java, Python, HTMl and CSS!
+⇒ 🌱 I’m currently learning JavaScripts, Java, Python, GoLang, HTMl and CSS!
 
 ⇒ 👯 I’m looking to collaborate on myself 🤡.
 
