@@ -9,6 +9,8 @@
 - [**Twitch**](https://www.twitch.tv/chingh_yt)
 - [**Discord**](https://discord.gg/ZaExNbkjPt) `ChinGH#2459`
 
+![https://discord.com/users/729568770808610917](https://discord.c99.nl/widget/theme-2/729568770808610917.png)
+
 <p align="left"> 
     <a href="https://twitter.com/gh_chin" target="_blank"> <img src="https://www.apkmirror.com/wp-content/uploads/2021/11/11/6185d069d957d.png" width="50" height="50"/> </a>
     <a href="https://www.reddit.com/user/ChinGH_BS" target="_blank"> <img src="https://cdn.discordapp.com/attachments/877918144264556544/906877353903407144/unknown.png" width="50" height="50"/> </a> 
