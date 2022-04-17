@@ -4,7 +4,7 @@
 
 ## Where You can find me?
 
-- [**Twitter**](https://twitter.com/gh_chin)
+- [**Twitter**](https://twitter.com/gh_chin) `@gh_chin`
 - [**Reddit**](https://www.reddit.com/user/ChinGH_BS) 
 - [**Twitch**](https://www.twitch.tv/chingh_yt)
 - [**Discord**](https://discord.gg/ZaExNbkjPt) `ChinGH#2459`
@@ -22,7 +22,7 @@
 
 ⇒ 🔭 I’m currently working on [Discord Bot Development](https://discord.com/developers/applications)!
 
-⇒ 🌱 I’m currently learning JavaScripts, Java, Python, GoLang, HTMl and CSS!
+⇒ 🌱 I’m currently learning JavaScripts, Python, GoLang, HTMl and CSS!
 
 ⇒ 👯 I’m looking to collaborate on myself 🤡.
 
