@@ -32,8 +32,8 @@
 
 ## About My Discord Bot
 
-- Bot: CGH#7612
-- Verified? Yes
+- Bot: `CGH#7612`
+- Verified? `Yes`
 - A multi-function Discord Bot! `Fun` `Music` `Games` `Moderation`
 - Prefix: `gh `  | Type `gh help` for looking all the commands!
 - [Invite Me!](https://discord.com/api/oauth2/authorize?client_id=837564399833055272&permissions=4063558227&scope=bot%20applications.commands)
@@ -43,8 +43,8 @@
 ## 📊 Stats
 
   <br/>
-    <a href="https://github.com/chinghytb/github-readme-stats"><img alt="ChinGH's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chinghytb&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/chinghytb/github-readme-stats"><img alt="ChinGH's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinghytb&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/chingh1123/github-readme-stats"><img alt="ChinGH's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chingh1123&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/chingh1123/github-readme-stats"><img alt="ChinGH's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chingh1123&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   
 ## 🚀 My favourite Languages:
