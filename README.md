@@ -1,12 +1,11 @@
-# Hey nice to meet you Boiiii 👋
-
-#### My name is ChinGH and you can call me gh!
+# Hey nice to meet you 👋
+- My name is ChinGH and you can call me gh!
 
 ## Where You can find me?
 
 - [**Twitter**](https://twitter.com/gh_chin) `@gh_chin`
 - [**Reddit**](https://www.reddit.com/user/ChinGH_BS) 
-- [**Twitch**](https://www.twitch.tv/chingh_yt)
+- [**Twitch**](https://www.twitch.tv/chingh_yt) `chin_gh`
 - [**Discord**](https://discord.gg/ZaExNbkjPt) `ChinGH#2459`
 
 ![https://discord.com/users/729568770808610917](https://discord.c99.nl/widget/theme-2/729568770808610917.png)
