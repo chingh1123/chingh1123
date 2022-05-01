@@ -8,8 +8,6 @@
 - [**Twitch**](https://www.twitch.tv/chingh_yt) `chin_gh`
 - [**Discord**](https://discord.gg/ZaExNbkjPt) `ChinGH#2459`
 
-![https://discord.com/users/729568770808610917](https://discord.c99.nl/widget/theme-3/729568770808610917.png?&radius=25&force_format=png)
-
 <p align="left"> 
     <a href="https://twitter.com/gh_chin" target="_blank"> <img src="https://www.apkmirror.com/wp-content/uploads/2021/11/11/6185d069d957d.png" width="50" height="50"/> </a>
     <a href="https://www.reddit.com/user/ChinGH_BS" target="_blank"> <img src="https://cdn.discordapp.com/attachments/877918144264556544/906877353903407144/unknown.png" width="50" height="50"/> </a> 
@@ -19,15 +17,15 @@
 
 ## My personal :)
 
-⇒ 🔭 I’m currently working on [Discord Bot Development](https://discord.com/developers/applications)!
+- [x] 🔭 I’m currently working on [Discord Bot Development](https://discord.com/developers/applications)!
 
-⇒ 🌱 I’m currently learning JavaScripts, Python, GoLang, HTMl and CSS!
+- [x] 🌱 I’m currently learning JavaScripts, Python, GoLang, HTMl and CSS!
 
-⇒ 👯 I’m looking to collaborate on myself 🤡.
+- [x] 👯 I’m looking to collaborate on myself 🤡.
 
-⇒ ⚡ Fun fact: I'm a nubest boy forever 💪 
+- [x] ⚡ Fun fact: I'm a nubest boy forever 💪 
 
-⇒ 🤖 Discord verified bot developer
+- [x] 🤖 Discord verified bot developer
 
 ## About My Discord Bot
 
@@ -40,7 +38,7 @@
 <img src="https://cdn.discordapp.com/attachments/877918144264556544/906870431225622538/unknown.png"> 
 
 ## 📊 Stats
-
+![https://discord.com/users/729568770808610917](https://discord.c99.nl/widget/theme-3/729568770808610917.png?&radius=25&force_format=png)
   <br/>
     <a href="https://github.com/chingh1123/github-readme-stats"><img alt="ChinGH's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chingh1123&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/chingh1123/github-readme-stats"><img alt="ChinGH's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chingh1123&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
