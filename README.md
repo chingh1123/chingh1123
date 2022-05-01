@@ -8,7 +8,7 @@
 - [**Twitch**](https://www.twitch.tv/chingh_yt) `chin_gh`
 - [**Discord**](https://discord.gg/ZaExNbkjPt) `ChinGH#2459`
 
-![https://discord.com/users/729568770808610917](https://discord.c99.nl/widget/theme-2/729568770808610917.png)
+![https://discord.com/users/729568770808610917](https://discord.c99.nl/widget/theme-2/729568770808610917.png?&radius=25)
 
 <p align="left"> 
     <a href="https://twitter.com/gh_chin" target="_blank"> <img src="https://www.apkmirror.com/wp-content/uploads/2021/11/11/6185d069d957d.png" width="50" height="50"/> </a>
