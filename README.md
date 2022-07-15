@@ -9,10 +9,10 @@
 - [**Discord**](https://discord.gg/ZaExNbkjPt) `ChinGH#2459`
 
 <p align="left"> 
-    <a href="https://twitter.com/gh_chin" target="_blank"> <img src="https://www.apkmirror.com/wp-content/uploads/2021/11/11/6185d069d957d.png" width="50" height="50"/> </a>
-    <a href="https://www.reddit.com/user/ChinGH_BS" target="_blank"> <img src="https://cdn.discordapp.com/attachments/877918144264556544/906877353903407144/unknown.png" width="50" height="50"/> </a> 
-    <a href="https://www.twitch.tv/chingh_yt" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1450901581876973568/0bHBmqXe_400x400.png" width="50" height="50"/> </a> 
-    <a href="https://discord.gg/hVBR4DVd" target="_blank"> <img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" width="50" height="50"/> </a>       
+    <a href="https://twitter.com/gh_chin" target="_blank"> <img src="https://user-images.githubusercontent.com/86087456/179264543-2d8063ec-7f89-49c9-b8d2-9a35fa552d8b.png" width="50" height="50"/> </a>
+    <a href="https://www.reddit.com/user/ChinGH_BS" target="_blank"> <img src="https://user-images.githubusercontent.com/86087456/179264702-da1113de-f876-4a6d-9110-13f4e9354740.png" width="50" height="50"/> </a> 
+    <a href="https://www.twitch.tv/chingh_yt" target="_blank"> <img src="https://user-images.githubusercontent.com/86087456/179264865-227b3be4-7198-484e-a72b-46a8720a6949.png" width="50" height="50"/> </a> 
+    <a href="https://discord.gg/hVBR4DVd" target="_blank"> <img src="https://user-images.githubusercontent.com/86087456/179265044-4f59ea28-90dd-46c4-a465-b6125fbdbad2.png" width="50" height="50"/> </a>       
 </p>
 
 ## My personal :)
