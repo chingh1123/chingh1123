@@ -25,8 +25,6 @@
 
 - [x] ⚡ Fun fact: I'm a nubest boy forever 💪 
 
-- [x] 🤖 Discord verified bot developer
-
 ## 📊 Stats
 ![https://discord.com/users/729568770808610917](https://discord.c99.nl/widget/theme-3/729568770808610917.png?&radius=25&force_format=png)
   <br/>
