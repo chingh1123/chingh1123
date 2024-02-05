@@ -9,10 +9,10 @@
 - [**Discord**](https://discord.gg/ZaExNbkjPt) `ChinGH#2459`
 
 <p align="left"> 
-    <a href="https://twitter.com/gh_chin" target="blank"> <img src="https://user-images.githubusercontent.com/86087456/179264543-2d8063ec-7f89-49c9-b8d2-9a35fa552d8b.png" width="50" height="50"/> </a>
-    <a href="https://www.reddit.com/user/ChinGH_BS" target="blank"> <img src="https://user-images.githubusercontent.com/86087456/179264702-da1113de-f876-4a6d-9110-13f4e9354740.png" width="50" height="50"/> </a> 
-    <a href="https://www.twitch.tv/chingh_yt" target="blank"> <img src="https://user-images.githubusercontent.com/86087456/179264865-227b3be4-7198-484e-a72b-46a8720a6949.png" width="50" height="50"/> </a> 
-    <a href="https://discord.gg/hVBR4DVd" target="blank"> <img src="https://user-images.githubusercontent.com/86087456/179265044-4f59ea28-90dd-46c4-a465-b6125fbdbad2.png" width="50" height="50"/> </a>       
+    <a href="https://twitter.com/gh_chin" target="__blank"> <img src="https://user-images.githubusercontent.com/86087456/179264543-2d8063ec-7f89-49c9-b8d2-9a35fa552d8b.png" width="50" height="50"/> </a>
+    <a href="https://www.reddit.com/user/ChinGH_BS" target="__blank"> <img src="https://user-images.githubusercontent.com/86087456/179264702-da1113de-f876-4a6d-9110-13f4e9354740.png" width="50" height="50"/> </a> 
+    <a href="https://www.twitch.tv/chingh_yt" target="__blank"> <img src="https://user-images.githubusercontent.com/86087456/179264865-227b3be4-7198-484e-a72b-46a8720a6949.png" width="50" height="50"/> </a> 
+    <a href="https://discord.gg/hVBR4DVd" target="__blank"> <img src="https://user-images.githubusercontent.com/86087456/179265044-4f59ea28-90dd-46c4-a465-b6125fbdbad2.png" width="50" height="50"/> </a>       
 </p>
 
 ## My personal :)
